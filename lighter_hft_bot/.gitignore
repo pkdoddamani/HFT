@@ -1,0 +1,18 @@
+# Environments and Secrets
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Reports and Logs
+*.log
+dry_run_diagnostics.json
+dry_run_report.html
+backtest_report.json
+backtest_report.html
